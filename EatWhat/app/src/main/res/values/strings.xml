@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">吃什么</string>
+
+    <string name="eat_what">吃什么</string>
+    <string name="today_eat_this"> 今天吃这个</string>
+    <string name="confirm">确定</string>
+    <string name="ok_just_eat_this">好就吃这个</string>
+</resources>
